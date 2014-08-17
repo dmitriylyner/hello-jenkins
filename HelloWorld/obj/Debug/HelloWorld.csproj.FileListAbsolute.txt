@@ -13,3 +13,9 @@ C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyRef
 C:\development\Playground\gettingStartedWithJenkins\demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\development\Playground\gettingStartedWithJenkins\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\development\Playground\gettingStartedWithJenkins\demos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

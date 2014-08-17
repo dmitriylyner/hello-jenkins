@@ -12,3 +12,10 @@ C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Development\hello-jenkins\hello-jenkins\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
